@@ -40,7 +40,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Ali Sahel Kherbeak
 TITLE:Sales Manager
-ORG:RISE Properties
+ORG:Diplomat Properties
 TEL;TYPE=WORK,VOICE:+971555840258
 EMAIL:ali.kherbeak7@outlook.com
 URL:http://www.dpdxb.com
