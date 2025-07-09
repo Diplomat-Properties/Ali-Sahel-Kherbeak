@@ -38,11 +38,11 @@ function downloadVCard() {
   const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:ADNAN ALBAKKOUR
+FN:Ali Sahel Kherbeak
 TITLE:Sales Manager
 ORG:RISE Properties
-TEL;TYPE=WORK,VOICE:+971586410997
-EMAIL:adnano@dpdxb.com
+TEL;TYPE=WORK,VOICE:+971555840258
+EMAIL:ali.kherbeak7@outlook.com
 URL:http://www.dpdxb.com
 ADR;TYPE=WORK:;;PO Box No 181702, Office NO.807, Opal Tower, Business Bay;Dubai;;UAE
 END:VCARD
@@ -53,7 +53,7 @@ END:VCARD
 
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'ADNAN ALBAKKOUR.vcf';
+  a.download = 'Ali Sahel Kherbeak.vcf';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
